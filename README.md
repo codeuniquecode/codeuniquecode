@@ -19,9 +19,6 @@ Let's build amazing things together! 🚀
 
 ![codeuniquecode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeuniquecode&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeuniquecode&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Most Used Languages
 
