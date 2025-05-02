@@ -10,8 +10,8 @@ Backend Development: I work with Node.js and Express to build robust server-side
 Get in Touch
 I'm always open to collaboration and eager to connect with fellow developers. If you have any questions, suggestions, or want to say hi, feel free to reach out to me via:
 
-Email: uniquestha619@email.com
-LinkedIn: Unique Shrestha
+Email: uniquestha100@email.com
+LinkedIn: https://www.linkedin.com/in/unique-shrestha/
 Let's build amazing things together! 🚀
 
 ### 🚀 GitHub Stats
