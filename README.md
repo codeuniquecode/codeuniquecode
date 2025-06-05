@@ -16,13 +16,12 @@ Let's build amazing things together! 🚀
 
 ### 🚀 GitHub Stats
 
-![codeuniquecode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeuniquecode&show_icons=true&theme=radical)
-
+[![codeuniquecode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeuniquecode&show_icons=true&theme=radical)
+](https://github-readme-stats.vercel.app/api?username=codeuniquecode)
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeuniquecode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=codeuniquecode
 
 ### 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
