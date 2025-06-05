@@ -16,11 +16,12 @@ Let's build amazing things together! 🚀
 
 ### 🚀 GitHub Stats
 
-![codeuniquecode's GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=codeuniquecode&show_icons=true&theme=radical)
+![codeuniquecode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeuniquecode&show_icons=true&theme=radical)
+
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=codeuniquecode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeuniquecode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🛠 Tech Stack:
