@@ -1,17 +1,14 @@
-Welcome to my GitHub Profile! 👋
+Hi, I’m Unique Shrestha, an SEO Specialist focused on helping individuals and businesses improve their online visibility, strengthen their search rankings, and grow consistently through organic search. My core expertise includes on-page SEO, technical SEO, keyword research, backlink audits, content optimization, competitor analysis, and SEO performance tracking. I enjoy using data-driven strategies to understand search intent, identify ranking gaps, and optimize content and websites for long-term results.
 
-Hello there! I'm Unique Shrestha, a passionate web developer with intermediate knowledge in HTML, CSS, JavaScript, PHP, and Node.js with Express. I love building responsive and user-friendly web applications that bring ideas to life online. 
+Along with SEO, I also have secondary skills in web development, which support my ability to perform more technical audits and implement SEO-friendly structures. I have intermediate experience in HTML, CSS with Bootstrap 5, JavaScript, PHP, Node.js, and Express. These development skills help me understand how websites are built from the ground up, enabling me to optimize technical elements such as routing, metadata, site structure, speed, and crawlability more effectively.
 
-What I Do
-Frontend Development: I create dynamic and engaging user interfaces using HTML, CSS(BS-5), and JavaScript. From simple landing pages to complex web applications, I enjoy crafting visually appealing designs that provide seamless user experiences.
-
-Backend Development: I work with Node.js and Express to build robust server-side applications and handle database interactions, ensuring smooth and efficient backend operations.
+On my GitHub, you will find SEO-related projects, web development practice repositories, backend experiments, and tools I build while learning new optimization techniques. I’m passionate about improving search performance, analyzing technical issues, and creating clean, search-friendly digital experiences.
 
 Get in Touch
 I'm always open to collaboration and eager to connect with fellow developers. If you have any questions, suggestions, or want to say hi, feel free to reach out to me via:
 
 Email: uniquestha100@email.com
-LinkedIn: https://www.linkedin.com/in/unique-shrestha/
+LinkedIn: [https://www.linkedin.com/in/unique-shrestha/](https://www.linkedin.com/in/unique-shrestha/)
 Let's build amazing things together! 🚀
 
 ### 🚀 GitHub Stats
